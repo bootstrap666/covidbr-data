@@ -1,2 +1,2 @@
 # covidbr-data
-Dados de contaminação pelo COVID-25 fornecidos pelo ministério da saúde brasileiro
+Dados de contaminação pelo COVID-19 fornecidos pelo ministério da saúde brasileiro
